@@ -1,5 +1,9 @@
-# Node package for converting IPA to valid SSML requests
-Sometimes you just wish there was a Node.js package that did a *thing*, such as convert [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) to a valid [SSML](https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language) element 😅
+# Node package for converting IPA to valid SSML elements
+[![Node.js CI](https://github.com/theresnotime/ipa-to-ssml/actions/workflows/node.js.yml/badge.svg)](https://github.com/theresnotime/ipa-to-ssml/actions/workflows/node.js.yml)
+[![CodeQL](https://github.com/theresnotime/ipa-to-ssml/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/theresnotime/ipa-to-ssml/actions/workflows/codeql-analysis.yml)
+[![install size](https://packagephobia.com/badge?p=@theresnotime/ipa-to-ssml)](https://packagephobia.com/result?p=@theresnotime/ipa-to-ssml)
+
+Sometimes you just wish there was a Node.js package that did a *thing*, such as convert [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) to a valid [SSML](https://en.wikipedia.org/wiki/Speech_Synthesis_Markup_Language) element — sometimes you wish it ***so much*** you end up writing it. 😅
 
 ## Installing
 Go grab it on [npmjs](https://www.npmjs.com/package/@theresnotime/ipa-to-ssml) via `npm i @theresnotime/ipa-to-ssml`
