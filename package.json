@@ -15,9 +15,11 @@
         "ipa"
     ],
     "devDependencies": {
-        "jest": "^28.1.0"
+        "jest": "^28.1.0",
+        "jshint": "^2.13.4"
     },
     "scripts": {
-        "test": "jest"
+        "test": "jest --verbose",
+        "lint": "jshint . --verbose"
     }
 }
