@@ -8,7 +8,7 @@ const {XMLValidator} = require('fast-xml-parser');
  * @param {string} variant - Which SSML variant to use. Defaults to 'default'.
  */
 async function convertToSSML(word, ipa, variant = 'default') {
-    let requestedVariant = 'dist/templates/' + variant + '.xml';
+    let requestedVariant = __dirname + '/templates/' + variant + '.xml';
 
     try {
         let data = await fs.readFile(requestedVariant, { encoding: 'utf8' });
