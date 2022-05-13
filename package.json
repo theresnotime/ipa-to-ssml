@@ -1,6 +1,6 @@
 {
     "name": "@theresnotime/ipa-to-ssml",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "license": "MIT",
     "repository": "theresnotime/ipa-to-ssml",
     "main": "dist/index.js",
