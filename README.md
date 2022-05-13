@@ -1,1 +1,1 @@
-# ipa-to-ssml
+# Node package for converting IPA to valid SSML requests
