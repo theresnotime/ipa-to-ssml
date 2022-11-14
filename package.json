@@ -16,7 +16,7 @@
     ],
     "devDependencies": {
         "jest": "^28.1.1",
-        "jshint": "^2.13.4"
+        "jshint": "^2.13.6"
     },
     "scripts": {
         "test": "jest --verbose",
